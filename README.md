@@ -1,6 +1,9 @@
 # ARISE: Authentic Reference-Informed Stability Enhancement for Continual Multimodal Forgery Detection
 
-![arXiv](https://arxiv.org/abs/2610.36509)
+
+
+<font size=4><div align='center'>[[📄 Paper]](https://arxiv.org/abs/2610.36509) </div></font>
+
 
 ## 📌 Overview
 
@@ -51,7 +54,7 @@ Across three attack-evolution protocols (P1/P2/P3) and multiple detector archite
 If you find this work useful, please consider citing:
 
 ```bibtex
-@ARTICLE{Zhang2026-xi,
+@ARTICLE{Zhang2026arise,
   title         = "{ARISE}: Authentic {Reference-Informed} Stability
                    Enhancement for continual multimodal forgery detection",
   author        = "Zhang, Yuchen and Wang, Yaxiong and Wu, Yujiao and Wu,
